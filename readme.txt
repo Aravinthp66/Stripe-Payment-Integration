@@ -41,8 +41,7 @@ Getting Started:
    - Run the project in IntelliJ IDEA. The server will start.
 
 6. API Testing with Postman:
-   - Use Postman or a similar tool to interact with the RESTful APIs.
-   - Test the CRUD operations for employee data and file storage.
+   - Use Postman or a similar tool to interact with the RESTful APIs.   
 
 Note: Ensure you have properly set up your Stripe Dashboard account.
 
